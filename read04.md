@@ -3,7 +3,7 @@
 ## Process & Design
 
 ### wireframe :
-Wireframing is a practice used by designers to define and plan the information hierarchy of their design for a website, app, or product. This process focuses on how the designer or client wants the user to process information on a site.By knowing where all the information is going to go located in plain black and white diagrams before building anything with code.
+Wireframing is a practice used by designers to define and plan the information hierarchy of their design for a website, app, or product. This process focuses on how the designer or client wants the user to process information on a site.By knowing where all the information is going to go be located in plain black and white diagrams before building anything with code.
 
 Without the distractions of colors, typeface choices or text, wireframing lets you plan the layout and interaction of your interface.
 
@@ -20,3 +20,16 @@ HTML (Hypertext Markup Language) is the code that is used to structure a web pag
 2. The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This states where the element ends.
 3. The content.
 4. The element: The opening tag, the closing tag, and the content together comprise the element.
+
+### Semantics:
+
+In programming, Semantics refers to the meaning of a piece of code.
+
+#### Authors Github :
+[Omar Salah Al-Rawajfi](https://github.com/omar-rawajfi)
+
+
+#### sources:
+1. [Wireframe and Design](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe)
+2. [Mozilla HTML Basics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) 
+3. [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
