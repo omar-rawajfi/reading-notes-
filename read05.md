@@ -12,7 +12,7 @@ New features are constantly being add to CSS by the CSS Working Group. Though no
 
 You can add CSS to a HTML file by using one of these methods:
 
-1. Inline style (inside an HTML element like <p style="">)
+1. Inline style(inside an HTML element  )
 2. Extenal CSS (link to a separate file) 
 3. Internal ( in the head element)
 
