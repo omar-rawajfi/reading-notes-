@@ -8,6 +8,8 @@ The usage of CSS can range from specifying the size and color of text of any ele
 
 CSS is a rule based language(a rule is like a statment like i want the text in this paragraph to be yellow and the background to be white). A rule begins with a **selector**(the element you want the rule to apply to. like h1). then **curly braces** which mark the beginning and the end of the area where you can make declarations. and finaly **declarations** , which are made of a **property** and a **value**, like **color** and **red** respectively.
 
+![rule elements](https://www.tutorialspoint.com/css/images/syntax.png)
+
 New features are constantly being add to CSS by the CSS Working Group. Though not all browsers can support every feature of CSS .so before using some features check **Browser Compatibility**.
 
 You can add CSS to a HTML file by using one of these methods:
@@ -15,6 +17,12 @@ You can add CSS to a HTML file by using one of these methods:
 1. Inline style(inside an HTML element  )
 2. Extenal CSS (link to a separate file) 
 3. Internal ( in the head element)
+
+[Github profile](https://github.com/omar-rawajfi)
+
+[source](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS#browser_compatibility)
+
+[Home](https://omar-rawajfi.github.io/reading-notes-/)
 
 
 
